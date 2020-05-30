@@ -3,6 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-CV(long) \s\s
-CV(short) \s\s
+CV(long)   
+CV(short)  
 Resume 
