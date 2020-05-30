@@ -7,3 +7,14 @@
 #
 layout: home
 ---
+Namaste!
+
+I am Athul C D. I am currently a Senior Undergraduate under the Department of Mechanical Engineering at the Indian Institute of Technology Bombay (Mumbai, India). I made this website to record all the important projects I have built during my undergrad.
+
+You can read more about me here.
+
+You can see my CV here. (Updated in Dec’19)
+
+Click here to know about my research in detail.
+
+I maintain a detailed list of my projects here.
