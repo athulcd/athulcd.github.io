@@ -24,4 +24,4 @@ I maintain a detailed list of my projects here.
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Apr 2020:</b></td><td>Classes are suspended at IIT Bombay(<a href="http://www.iitb.ac.in/en/covid-19-important-circulars">circulars</a></td></tr>)
+<tr><td><b>Mar 2020:</b></td><td>Classes are suspended at IIT Bombay(<a href="http://www.iitb.ac.in/en/covid-19-important-circulars">circulars</a></td></tr>)
