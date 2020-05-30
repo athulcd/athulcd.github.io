@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name is Athul C D and I am a Senior Undergraduate under the Mechanical Engineering department at IIT-B. My research interests, though eclectic revolve around the core question: “?”. This core query gives rise to my interests in . I am interested in developing theoretical aspects of problems in these fields as well as building tools that are practically tractable.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently working on  with Prof.  as a part of my .
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I spent the summer of 2019 as research intern at . I worked under Prof. . I also developed a tool for .
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I spent the summer of 2019 as research intern at . I worked under Prof. . I also developed a tool for .
 
+I used to be an Editor of Insight, the official student media body of IIT-Bombay. At heart, I am a tinkerer with the hacker spirit!
 
-[jekyll-organization]: https://github.com/jekyll
+I also go by the pseudonym .
