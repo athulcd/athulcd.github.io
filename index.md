@@ -20,10 +20,3 @@ Click here to know about my research in detail.
 I maintain a detailed list of my projects here.
 
 #### Updates
-
-<div style="height:250px;overflow:auto;">
-<table>
-<col width="100px">
-<col width="650px">
-<tr><td><b>Apr 2020:</b></td><td>talk at <a href="">IBM research</a> on model extraction attacks on BERT (<a href="https:">slides</a>)</td></tr>
-
