@@ -50,6 +50,9 @@ minima:
 header_pages:
  - _pages/about.md
  - projects.md
+ - cv.md
+ - research.md
+ 
 
 # Build settings
 theme: minima
