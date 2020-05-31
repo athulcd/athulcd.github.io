@@ -13,14 +13,15 @@ Amongst Non-fiction, I recently read Sapiens: A Brief History of Humankind by Yu
 
 Follow me on Goodreads to know what I am reading.  
 
-**Music**
+**Music**  
 I have been trained in Carnatic music for 3 years. I have learned the violin for 1 year and keyboard for 2 years.  
 I listen to music. I listen to a lot of  
 My favourite artists are  
 
-**Math**
-I have  
-TV Shows  
+**Math**  
+I have   
+
+**TV Shows**    
 In my free time, I also watch some TV shows/Web series.  
 I have seen Sit-coms like Brooklyn Nine-Nine, The Big Bang Theory, Friends etc  
 I have also seen Fantasy series like The Game of Thrones, The Stranger Things  
