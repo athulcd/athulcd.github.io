@@ -31,16 +31,16 @@ I follow shows like
 I am a movie aficionado. I have watched  
 My favourite Directors are  
 
-**Travel**
+**Travel**  
 I like to travel a lot.  
 
 **Quizzing**  
 
-**Institute Bodies**
-**Mood Indigo**
-Mood Indigo is Asia’s largest College Cultural Festival. I worked as a Coordinator for the media and Publicity Department 
-**Insight**
-Insight is the student media body of IIT Bombay. Currently, I am an Editorial Board Member of the same.
-**Literati**
+**Institute Bodies**  
+**Mood Indigo**  
+Mood Indigo is Asia’s largest College Cultural Festival. I worked as a Coordinator for the media and Publicity Department  
+**Insight**  
+Insight is the student media body of IIT Bombay. Currently, I am an Editorial Board Member of the same.  
+**Literati**  
 Literati is the literary arts club of IIT Bombay.
 
