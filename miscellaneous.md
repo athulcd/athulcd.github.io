@@ -29,19 +29,22 @@ I follow shows like
 
 
 **Movies**
-I am a movie aficionado. I have watched  
-My favourite Directors are  
+I am a movie aficionado. I have watched   
+My favourite Directors are   
 
-**Travel**  
-I like to travel a lot.  
+**Travel**   
+I like to travel a lot.   
 
 **Quizzing**  
 
-**Institute Bodies**  
-**Mood Indigo**  
-Mood Indigo is Asia’s largest College Cultural Festival. I worked as a Coordinator for the media and Publicity Department  
-**Insight**  
-Insight is the student media body of IIT Bombay. Currently, I am an Editorial Board Member of the same.  
-**Literati**  
-Literati is the literary arts club of IIT Bombay.
+**Institute Bodies**   
+**Mood Indigo**   
+Mood Indigo is Asia’s largest College Cultural Festival. I worked as a Coordinator for the media and Publicity Department    
+**Insight**    
+Insight is the student media body of IIT Bombay. Currently, I am an Editorial Board Member of the same.    
+**Literati**   
+Literati is the literary arts club of IIT Bombay.  
+
+**Comic Strips**  
+
 
