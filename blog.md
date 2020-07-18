@@ -5,16 +5,16 @@ permalink: /blog/
 ---
 ### Research 
 [Mechanical Characterization of a Non-linear Viscoelastic Hydrogel]()  
-[High Content Automated Image Analysis]()  
+[High Content Automated Image Analysis](athulcd.github.io/SK)  
 ### Science & Technology 
 []()  
 ### Social Sciences 
 []()  
 ### Art & Literature 
 [Reading List 2020]()   
-[Reading List 2020]()   
+[Reading List 2019]()   
 [Summer Playlist 2020]()   
-[Summer Playlist 2020]()   
+[Summer Playlist 2019]()   
 [Comic Books]()  
 [Podcasts]()  
 ### Sports
@@ -26,6 +26,6 @@ How to
 ### Opinions
 []()  
 ### Miscellaneous 
-[List 100]
-[Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay]
-
+[List 100]  
+[Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay]()    
+[Articles I wrote for Department's student support blog]()  
