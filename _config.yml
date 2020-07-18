@@ -3,7 +3,7 @@ author:
   name: Athul C D
   email: athulcd@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-Carpe Diem!
+  Carpe Diem!
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
