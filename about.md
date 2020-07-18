@@ -13,7 +13,7 @@ Parag Tandaiya](https://sites.google.com/site/paragtandaiya/home).
 
 I spent the summer of 2018 as research intern at [Membrane Biophysics and Chemical Biology Lab, IIT Bombay](https://shobhnakapoor.wixsite.com/skapoor). I worked under [Prof. Shobhna Kapoor](https://www.chem.iitb.ac.in/?q=facultyuserview/144). I also developed a tool for .
 
-I used to be an Editor of Insight, the official student media body of IIT-Bombay. I also manage the student support blog for my department.
+I used to be an Editor of [Insight](https://www.insightiitb.org/), the official student media body of IIT-Bombay. I also manage the student support blog for my department.
 
 
 
