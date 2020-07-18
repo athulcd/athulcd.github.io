@@ -18,7 +18,7 @@ You can see my CV [here.](https://athulcd.github.io/assets/CV.pdf) (Updated in D
 
 Click [here](https://athulcd.github.io/research/) to know about my research in detail.
 
-I maintain a detailed list of my projects here.
+I maintain a detailed list of my projects [here.](https://athulcd.github.io/projects)
 
 #### Updates
 
