@@ -15,10 +15,14 @@ permalink: /blog/
 
 ### Art & Literature 
 [Reading List 2020]()  
-[Summer Playlist]()  
+[Reading List 2020]()
+[Summer Playlist 2020]()  
+[Summer Playlist 2020]()  
+
 
 ### Sports
 [Formula 1](https://athulcd.github.io/blog/Formula1)  
+
 
 ### Quizzing, Wordgames & puzzles
 My Sets  
@@ -30,5 +34,5 @@ How to
 
 
 ### Miscellaneous 
-
+[List 100]
 
