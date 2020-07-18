@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Blog
 permalink: /blog/
 ---
-
+# Blog
 ### Research 
 [Mechanical Characterization of a Non-linear Viscoelastic Hydrogel]()  
 [High Content Automated Image Analysis]()  
