@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.JPG ">
 Namaste!
 
 I am Athul C D. I am currently a Senior Undergraduate under the [Department of Mechanical Engineering](https://www.me.iitb.ac.in/) at the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) (Mumbai, India). I made this website to record all the important projects I have built during my undergrad.
