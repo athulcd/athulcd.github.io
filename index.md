@@ -12,7 +12,7 @@ Namaste!
 
 I am Athul C D. I am currently a Senior Undergraduate under the [Department of Mechanical Engineering](https://www.me.iitb.ac.in/) at the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) (Mumbai, India). I made this website to record all the important projects I have built during my undergrad.
 
-You can read more about me here.
+You can read more about me [here.](https://athulcd.github.io/about/)
 
 You can see my CV [here.](https://athulcd.github.io/assets/CV.pdf) (Updated in Dec’19)
 
