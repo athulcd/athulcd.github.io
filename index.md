@@ -16,7 +16,7 @@ You can read more about me [here.](https://athulcd.github.io/about/)
 
 You can see my CV [here.](https://athulcd.github.io/assets/CV.pdf) (Updated in Dec’19)
 
-Click here to know about my research in detail.
+Click [here](https://athulcd.github.io/research/) to know about my research in detail.
 
 I maintain a detailed list of my projects here.
 
