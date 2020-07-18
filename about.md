@@ -7,7 +7,9 @@ My name is Athul C D and I am a Senior Undergraduate under the Mechanical Engine
 
 I am currently working on  with Prof.  as a part of my .
 
-I spent the summer of 2019 as research intern at . I worked under Prof. . I also developed a tool for .
+I spent the summer of 2019 as research intern at 
+[Computational Solid Mechanics Laboratory](https://sites.google.com/site/paragtandaiya/laboratory). I worked under [Prof. 
+Parag Tandaiya](https://sites.google.com/site/paragtandaiya/home).
 
 I spent the summer of 2018 as research intern at [Membrane Biophysics and Chemical Biology Lab, IIT Bombay](https://shobhnakapoor.wixsite.com/skapoor). I worked under [Prof. Shobhna Kapoor](https://www.chem.iitb.ac.in/?q=facultyuserview/144). I also developed a tool for .
 
