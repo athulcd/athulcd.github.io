@@ -3,48 +3,30 @@ layout: page
 title: Miscellaneous
 permalink: /miscellaneous/
 ---
-**Books**
 
-I have been an avid reader since I started reading. I am a fan of Fantasy and Fiction. I plan to read 20 books in 2019. I believe I am well on track having already completed 12 books this year.  
-I started off this year with Hitchhikers Guide to the Galaxy series by Douglas Adams. Then I read the Harry Potter Series. I also read Inferno and Da Vinci code from Dan Brown.  
-Currently, I am reading A Song of Ice and Fire by George RR Martin.  
-
-Amongst Non-fiction, I recently read Sapiens: A Brief History of Humankind by Yuval Noah Harari.
-
-Follow me on Goodreads to know what I am reading.  
+### Books  
+I have been an avid reader since I learned to read. Initially I used to read everything that fell on my hands. My interests keep on evolving. My current interests are non-fiction and fantasy. I plan to read [42 books] in 2020. In 2019 I completed [15/20 books](https://www.goodreads.com/user/year_in_books/2019/91377546) which I planned to complete. I believe I am well on track having already completed 12 books this year. Currently, I am reading A Song of Ice and Fire by George RR Martin.   
+Follow me on [Goodreads](https://www.goodreads.com/user/show/91377546-athul-c-d) to know what I am reading.  
 
 **Music**  
 I have been trained in Carnatic music for 3 years. I have learned the violin for 1 year and keyboard for 2 years.  
-I listen to music. I listen to a lot of  
-My favourite artists are  
-
-**Math**  
-I have   
 
 **TV Shows**    
-In my free time, I also watch some TV shows/Web series.  
-I have seen Sit-coms like Brooklyn Nine-Nine, The Big Bang Theory, Friends etc  
-I have also seen Fantasy series like The Game of Thrones, The Stranger Things  
-I follow shows like  
+In my free time, I also watch some TV shows/Web series. Some of my favourite shows are Killing Eve, Seinfeld, Game of Thrones and Fleabag
 
 
 **Movies**
-I am a movie aficionado. I have watched   
-My favourite Directors are   
+I am a movie aficionado. My favourite movies can be found [here]. I also try to critically analyze movies. My reviews can be found [here]().
 
 **Travel**   
-I like to travel a lot.   
+I enjoy travelling and exploring the culture, history and traditional cuisines of the various locations. My travelogues can be found here. I am a fan of the show [Sancharam] since my childhood. This show along with books written by [M. P. Veerendra Kumar]() and [S. K. Pottekkatt](https://en.wikipedia.org/wiki/S._K._Pottekkatt) sparked my interest in travelling. 
 
 **Quizzing**  
-
-**Institute Bodies**   
-**Mood Indigo**   
-Mood Indigo is Asia’s largest College Cultural Festival. I worked as a Coordinator for the media and Publicity Department    
-**Insight**    
-Insight is the student media body of IIT Bombay. Currently, I am an Editorial Board Member of the same.    
-**Literati**   
-Literati is the literary arts club of IIT Bombay.  
+I am an active member of the quiz club at IIT Bombay. I represented IIT Bombay at the Inter-IIT Cultural Meet 4.0 held at IIT Bombay from December 21-23 and was part of the team which won the India Quiz.
 
 **Comic Strips**  
-
+Some comic strips I love  
+[Calvin and Hobbes]()    
+[Garfield]()    
+[xkcd]()  
 
