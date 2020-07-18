@@ -9,8 +9,7 @@ I am currently working on  with Prof.  as a part of my .
 
 I spent the summer of 2019 as research intern at . I worked under Prof. . I also developed a tool for .
 
-I spent the summer of 2019 as research intern at . I worked under Prof. . I also developed a tool for .
+I spent the summer of 2018 as research intern at . I worked under Prof. Shobhna Kapoor. I also developed a tool for .
 
 I used to be an Editor of Insight, the official student media body of IIT-Bombay. At heart, I am a tinkerer with the hacker spirit!
 
-I also go by the pseudonym .
