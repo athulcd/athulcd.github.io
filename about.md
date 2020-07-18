@@ -9,7 +9,11 @@ I am currently working on  with Prof.  as a part of my .
 
 I spent the summer of 2019 as research intern at . I worked under Prof. . I also developed a tool for .
 
-I spent the summer of 2018 as research intern at . I worked under Prof. Shobhna Kapoor. I also developed a tool for .
+I spent the summer of 2018 as research intern at [Membrane Biophysics and Chemical Biology Lab, IIT Bombay](https://shobhnakapoor.wixsite.com/skapoor). I worked under [Prof. Shobhna Kapoor](https://www.chem.iitb.ac.in/?q=facultyuserview/144). I also developed a tool for .
 
-I used to be an Editor of Insight, the official student media body of IIT-Bombay. At heart, I am a tinkerer with the hacker spirit!
+I used to be an Editor of Insight, the official student media body of IIT-Bombay. I also manage the student support blog for my department.
+
+
+
+At heart, I am a tinkerer with the hacker spirit!
 
