@@ -12,6 +12,7 @@ permalink: /blog/
 []()  
 
 ### Social Sciences 
+[]()  
 
 ### Art & Literature 
 [Reading List 2020]()  
@@ -24,7 +25,7 @@ permalink: /blog/
 
 ### Sports
 [Formula 1](https://athulcd.github.io/blog/Formula1)  
-
+[]()  
 
 ### Quizzing, Wordgames & puzzles
 My Sets  
@@ -32,9 +33,10 @@ How to
 
 
 ### Opinions
-
+[]()  
 
 
 ### Miscellaneous 
 [List 100]
+[Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay]
 
