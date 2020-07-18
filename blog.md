@@ -19,6 +19,7 @@ permalink: /blog/
 [Summer Playlist 2020]()  
 [Summer Playlist 2020]()  
 [Comic Books]()  
+[Podcasts]()
 
 
 ### Sports
