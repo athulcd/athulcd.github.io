@@ -4,5 +4,5 @@ title: Blog
 permalink: /blog/
 ---
 
-#Blog
+# Tech
 
