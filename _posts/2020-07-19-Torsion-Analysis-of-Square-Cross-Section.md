@@ -1,4 +1,4 @@
 ---
 layout: post
-permalink: /blog/Autonomous-Bot
+permalink: /blog/sde-torsion
 ---
