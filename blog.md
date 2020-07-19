@@ -24,10 +24,10 @@ permalink: /blog/
 [Formula 1](https://athulcd.github.io/blog/Formula1)  
 []()  
 ### Quizzing, Wordgames & puzzles
-My Sets[]()    
+[My Sets](https://athulcd.github.io/blog/quizzing)    
 ### Opinions
 []()  
 ### Miscellaneous 
-[List 100]  
-[Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay]()    
-[Articles I wrote for Department's student support blog]()  
+[List 100](https://athulcd.github.io/blog/list100)  
+[Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay](https://athulcd.github.io/blog/insight)    
+[Articles I wrote for Department's student support blog](https://athulcd.github.io/blog/DAMP)  
