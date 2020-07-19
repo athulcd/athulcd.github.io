@@ -6,23 +6,25 @@ permalink: /blog/
 ### Research 
 [Mechanical Characterization of a Non-linear Viscoelastic Hydrogel](https://athulcd.github.io/blog/PT)  
 [High Content Automated Image Analysis](https://athulcd.github.io/blog/SK)  
+[]()    
 ### Science & Technology 
 []()  
 ### Social Sciences 
-[]()  
+[]()   
 ### Art & Literature 
 [Reading List 2020](https://athulcd.github.io/blog/RL2020)   
 [Reading List 2019](https://athulcd.github.io/blog/RL2019)   
 [Summer Playlist 2020](https://athulcd.github.io/blog/SP2020)   
 [Summer Playlist 2019](https://athulcd.github.io/blog/SP2019)   
-[Comic Books]()  
-[Podcasts]()  
+[Comic Books](https://athulcd.github.io/blog/comicbooks)  
+[Podcasts](https://athulcd.github.io/blog/podcasts)
+[Great Movies](https://athulcd.github.io/blog/greatmovies)
+[]()
 ### Sports
 [Formula 1](https://athulcd.github.io/blog/Formula1)  
 []()  
 ### Quizzing, Wordgames & puzzles
-My Sets  
-How to  
+My Sets[]()    
 ### Opinions
 []()  
 ### Miscellaneous 
