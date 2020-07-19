@@ -21,10 +21,5 @@ Click [here](https://athulcd.github.io/research/) to know about my research in d
 I maintain a detailed list of my projects [here.](https://athulcd.github.io/projects)
 
 #### Updates
-<div style="height:250px;overflow:auto;">
-<table>
-<col width="100px">
-<col width="650px">
-<tr><td><b>Jun 2020:</b></td><td>I was recognized as an for ACL 2020!</td></tr>
-<tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
+
 
