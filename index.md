@@ -25,6 +25,6 @@ I maintain a detailed list of my projects [here.](https://athulcd.github.io/proj
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
+<tr><td><b>Jun 2020:</b></td><td>I was recognized as an for ACL 2020!</td></tr>
 <tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
 
