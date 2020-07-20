@@ -20,6 +20,6 @@ Click [here](https://athulcd.github.io/research/) to know about my research in d
 
 I maintain a detailed list of my projects [here.](https://athulcd.github.io/projects)
 
-#### Updates
+**Updates**
 
 
