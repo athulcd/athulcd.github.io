@@ -12,8 +12,8 @@ permalink: /blog/
 ### Social Sciences 
 []()   
 ### Art & Literature 
-[Reading List](https://athulcd.github.io/blog/RL2020)      
-[Music](https://athulcd.github.io/blog/SP2020)    
+[Reading List](https://athulcd.github.io/blog/reading-list)      
+[Music](https://athulcd.github.io/blog/music)    
 [Comic Books](https://athulcd.github.io/blog/comicbooks)  
 [Podcasts](https://athulcd.github.io/blog/podcasts)   
 [Great Movies](https://athulcd.github.io/blog/greatmovies)
