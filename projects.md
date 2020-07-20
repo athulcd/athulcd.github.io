@@ -23,7 +23,7 @@ Designed and performed an experiment to measure the shear modulus and yield char
 ##### Epigenetic Memory by Nucleosome Modification-Theoretical Analysis
 Created a stochastic model in MATLAB using Gillespie and Monte Carlo Algorithm based on the work done
 in the publication titled ’Theoretical Analysis of Epigenetic Cell Memory by Nucleosome Modification’ in the
-Cell Journal. Investigated the nature of the system for different values of the parameter Feedback-to-Noise ratio. Reproduced the plots in the paper using the model and achieved bistability based on Positive Feedback as predicted in the publication[...Read More](https://athulcd.github.io/blog/BB-626)
+Cell Journal. Investigated the nature of the system for different values of the parameter Feedback-to-Noise ratio. Reproduced the plots in the paper using the model and achieved bistability based on Positive Feedback as predicted in the publication. [...Read More](https://athulcd.github.io/blog/BB-626)
 
 
 
