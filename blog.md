@@ -12,22 +12,20 @@ permalink: /blog/
 ### Social Sciences 
 []()   
 ### Art & Literature 
-[Reading List 2020](https://athulcd.github.io/blog/RL2020)   
-[Reading List 2019](https://athulcd.github.io/blog/RL2019)   
-[Summer Playlist 2020](https://athulcd.github.io/blog/SP2020)   
-[Summer Playlist 2019](https://athulcd.github.io/blog/SP2019)   
+[Reading List](https://athulcd.github.io/blog/RL2020)      
+[Music](https://athulcd.github.io/blog/SP2020)    
 [Comic Books](https://athulcd.github.io/blog/comicbooks)  
-[Podcasts](https://athulcd.github.io/blog/podcasts)
+[Podcasts](https://athulcd.github.io/blog/podcasts)   
 [Great Movies](https://athulcd.github.io/blog/greatmovies)
 []()
 ### Sports
 [Formula 1](https://athulcd.github.io/blog/Formula1)  
-[]()  
+[]()
 ### Quizzing, Wordgames & puzzles
-[My Sets](https://athulcd.github.io/blog/quizzing)    
+[My Sets](https://athulcd.github.io/blog/quizzing)
 ### Opinions
-[]()  
-### Miscellaneous 
+[]()
+### Miscellaneous
 [List 100](https://athulcd.github.io/blog/list100)  
 [Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay](https://athulcd.github.io/blog/insight)    
-[Articles I wrote for Department's student support blog](https://athulcd.github.io/blog/DAMP)  
+[Articles I wrote for Department's student support blog](https://athulcd.github.io/blog/DAMP)
