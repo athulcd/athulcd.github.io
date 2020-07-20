@@ -10,12 +10,14 @@ Follow me on [Goodreads](https://www.goodreads.com/user/show/91377546-athul-c-d)
 I enjoy travelling and exploring the culture, history and traditional cuisines of the various locations. My travelogues can be found here. I am a fan of the show [Sancharam]() since my childhood. This show along with books written by [M. P. Veerendra Kumar]() and [S. K. Pottekkatt](https://en.wikipedia.org/wiki/S._K._Pottekkatt) sparked my interest in travelling.
 ### Quizzing 
 I am an active member of the quiz club at IIT Bombay. I represented IIT Bombay at the Inter-IIT Cultural Meet 4.0 held at IIT Bombay from December 21-23 and was part of the team which won the India Quiz.
+### Sports
+I follow a number of sports like Formula1, Cricket, Football(soccer and American Football), Basketball(NBA primarily), Tennis. I am fan of Liverpool FC since childhood. My favourite athletes are Roger Federer, Lewis Hamilton, Rohit Sharma, Steve Smith, LeBron James, Tom Brady. I play sports like Badminton, Cricket, Football and Squash for recreation. 
 ### Movies
 I am a movie aficionado. I also try to critically analyze movies. Currently I am watching movies recommended by famous critic Roger Ebert in the book [Great Movies](https://www.rogerebert.com/great-movies). A list of my favourite movies and reviews can be found [here](https://athulcd.github.io/blog/greatmovies).
 ### Music  
 I have been trained in Carnatic music for 3 years. I have learned the violin for 1 year and keyboard for 2 years. Nowadays I play the the keyboard occasionally. I also love to listen to a wide variety of music. I am a big fan of 'The Beatles'. Some of my favourite songs can be found [here.](https://athulcd.github.io/blog/SP2020) 
 ### TV Shows
-In my free time, I also watch some TV shows/Web series. Some of my favourite shows are Killing Eve, Seinfeld, Game of Thrones and Fleabag
+In my free time, I also watch some TV shows/Web series. Some of my favourite shows are Killing Eve, Seinfeld, Game of Thrones and Fleabag.
 ### Comic Strips 
 Some comic strips I love  
 [Calvin and Hobbes]()    
