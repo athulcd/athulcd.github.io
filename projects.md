@@ -3,11 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-##### Mechanical Characterization of a Non-linear Viscoelastic Hydrogel   
+##### Mechanical Characterization of a Non-linear Viscoelastic Hydrogel
 I ideated and performed an indentation experiment using an Atomic Force Microscope (AFM) to determine the mechanical properties of a Poly Acryl Amide (PAA) viscoelastic hydrogel. The process also involved performing the corresponding Finite Element Method (FEM) simulations with the help of the experimental data using an axisymmetric model of the experimental setup in Abaqus FEA software. Then I tried to fit a constitutive model in ABAQUS software and calibrate the material parameters.  [...Read More](https://athulcd.github.io/blog/PT)
-##### High Content Automated Image Analysis    
+##### High Content Automated Image Analysis
 I developed a user friendly interface to a MATLAB program for Image Processing and Data Analysis of Confocal Microscopy images for Membrane Biophysics and Chemical Biology Lab. I also implemented Batch Processing and automated the execution process leading to a 10 fold decrease in the total processing time compared to the pre-existing version of the program. Using these programs I successfully deconvoluted the bimodal histogram from the GP images into a bi gaussian distribution using the Curve Fitting Toolbox in MATLAB with 90% showing good quality of fitting. Alongside I contributed to a different program for automating tether force analysis using Atomic Force Microscopy. [...Read More](https://athulcd.github.io/blog/SK)
-##### Simulation of Contact using a Nonlinear Damping Model for Robotic systems    
+##### Simulation of Contact using a Nonlinear Damping Model for Robotic systems
 Analysed various nonlinear contact model for use in computer simulation through literature survey
 Chose a simple nonlinear contact model and studied it’s dynamics with the help of analytical methods as well
 as computer simulations and plots in MATLAB
@@ -33,13 +33,13 @@ bar with square cross section
 in data sheets and tried to account for the errors
 [...Read More](https://athulcd.github.io/blog/sde-torsion)
 ##### Epigenetic Memory by Nucleosome Modification-Theoretical Analysis
-[...Read More](https://athulcd.github.io/blog/BB-626)
 · Created a stochastic model in MATLAB using Gillespie and Monte Carlo Algorithm based on the work done
 in the publication titled ’Theoretical Analysis of Epigenetic Cell Memory by Nucleosome Modification’ in the
 Cell Journal
 · Investigated the nature of the system for different values of the parameter Feedback-to-Noise ratio
 · Reproduced the plots in the paper using the model and achieved bistability based on Positive Feedback as
-predicted in the publication
+predicted in the publication[...Read More](https://athulcd.github.io/blog/BB-626)
+
 
 
 
