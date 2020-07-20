@@ -14,12 +14,11 @@ mathjax: true
 1. The Hitchhiker's Guide to the Galaxy Omnibus: A Trilogy in Five Parts - Adams, Douglas<br> 
 &#x2B50; &#x2B50; &#x2B50; &#x2B50;
 
-
-&#x2B50; &#x2B50; &#x2B50; &#x2B50; &#x2B50; = Strongly Recommended
-&#x2B50; &#x2B50; &#x2B50; &#x2B50; = Recommended
-&#x2B50; &#x2B50; &#x2B50; = Enjoyable
-&#x2B50; &#x2B50; = Not Recommended
-&#x2B50; = Steer Clear
-&#x1F4D6; = Now Reading/Last Read 
-&#x1f4d5; = To be read
+&#x2B50; &#x2B50; &#x2B50; &#x2B50; &#x2B50; = Strongly Recommended  
+&#x2B50; &#x2B50; &#x2B50; &#x2B50; = Recommended  
+&#x2B50; &#x2B50; &#x2B50; = Enjoyable  
+&#x2B50; &#x2B50; = Not Recommended  
+&#x2B50; = Steer Clear  
+&#x1F4D6; = Now Reading/Last Read  
+&#x1f4d5; = To be read  
 
