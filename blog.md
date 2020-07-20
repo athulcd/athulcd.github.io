@@ -5,14 +5,11 @@ permalink: /blog/
 ---
 ### Research 
 [Mechanical Characterization of a Non-linear Viscoelastic Hydrogel](https://athulcd.github.io/blog/PT)  
-[High Content Automated Image Analysis](https://athulcd.github.io/blog/SK)  
-[]()    
-### Science & Technology 
-[]()  
-### Social Sciences 
-[]()   
-### Art & Literature 
-[Reading List](https://athulcd.github.io/blog/reading-list)      
+[High Content Automated Image Analysis](https://athulcd.github.io/blog/SK) 
+### Science & Technology
+### Social Sciences
+### Art & Literature
+[Reading List](https://athulcd.github.io/blog/reading-list)     
 [Music](https://athulcd.github.io/blog/music)    
 [Comic Books](https://athulcd.github.io/blog/comicbooks)  
 [Podcasts](https://athulcd.github.io/blog/podcasts)   
