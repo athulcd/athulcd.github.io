@@ -12,6 +12,8 @@ Visit the [projects](https://athulcd.github.io/projects/) section to view a deta
    [Biophysical characterization of mycobacterial model membranes and their interaction with rifabutin: Towards lipid-guided drug screening in tuberculosis](https://pubmed.ncbi.nlm.nih.gov/31002767/)   
    Biochimica et Biophysica Acta (BBA) - Biomembranes
    
+   Find my Google Scholar profile [here](https://scholar.google.com/citations?user=LssYeuUAAAAJ&hl=en).
+   
 
 
 
