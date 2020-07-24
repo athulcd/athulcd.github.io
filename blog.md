@@ -18,7 +18,6 @@ permalink: /blog/
 []()
 ### Sports
 [Formula 1]({{ site.url }}/blog/Formula1)  
-[]()
 ### Quizzing, Wordgames & puzzles
 [My Sets]({{ site.url }}/blog/quizzing)
 ### Opinions
