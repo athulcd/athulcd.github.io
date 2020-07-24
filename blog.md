@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 ### Research 
 [Mechanical Characterization of a Non-linear Viscoelastic Hydrogel](https://athulcd.github.io/blog/PT)  
-[High Content Automated Image Analysis]({{ site.url }}/blog/SK) 
+[High Content Automated Image Analysis]({{site.url}}/blog/SK) 
 ### Science & Technology
 [A guide to getting started with Latex]({{ site.url }}/blog/latex)
 ### Social Sciences
