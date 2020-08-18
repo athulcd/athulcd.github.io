@@ -25,5 +25,7 @@ permalink: /blog/
 []()
 ### Miscellaneous
 [List 100]({{site.url}}/blog/list100)  
+[Review of 'How to Build a Car: The Autobiography of the World's Greatest Formula 1' by Adrian Newey]({{site.url}}/blog/How-to-build-a-car)
 [Articles I wrote or contributed to as an Editorial Board Member of Insight, IIT Bombay]({{site.url}}/blog/insight)    
 [Articles I wrote for Department's student support blog]({{site.url}}/blog/DAMP)
+
