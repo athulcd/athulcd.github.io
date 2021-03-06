@@ -8,4 +8,4 @@ Feel free to fork the website to create and deploy a similar webpage for yoursel
 *This site is built using Jekyll. Find the theme here - https://jekyll.github.io/minima/*   
 
 # Contibuting to my blog
-PLease reach out to me if you wish to contribute
+Please reach out to me if you wish to contribute
