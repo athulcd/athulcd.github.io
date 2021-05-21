@@ -3,12 +3,13 @@ layout: page
 title : Blog
 permalink: /blog/
 ---
+
 ### Research 
 [Mechanical Characterization of a Non-linear Viscoelastic Hydrogel](https://athulcd.github.io/blog/PT)  
 [High Content Automated Image Analysis]({{site.url}}/blog/SK) 
 ### Science & Technology
 [A guide to getting started with Latex]({{site.url}}/blog/latex)
-### Social Sciences
+
 ### Art & Literature
 [Reading List]({{site.url}}/blog/reading-list)     
 [Music]({{site.url}}/blog/music)    
@@ -21,8 +22,8 @@ permalink: /blog/
 []()
 ### Quizzing, Wordgames & puzzles
 [My Sets]({{site.url}}/blog/quizzing)
-### Opinions
 []()
+
 ### Miscellaneous
 [List 100]({{site.url}}/blog/list100)  
 [Review of 'How to Build a Car: The Autobiography of the World's Greatest Formula 1' by Adrian Newey]({{site.url}}/blog/How-to-build-a-car)  
