@@ -11,25 +11,26 @@ I developed a user friendly interface to a MATLAB program for Image Processing a
 
 
 ##### A Quantitative Analysis of Path Planning Algorithms using Parallel Computing
-[Report]()  [Presentation]() [Code]()
+[[Report]()]  [[Presentation]()] [[Code]()]
 
 ##### Simulation of Nonlinear Dynamic Systems
-[Report]()  [Presentation]() [Code]()
+[[Report]()]  [[Presentation]()] [[Code]()]
 
 ##### Market Forecasting using Machine learning based approach
-[Report]()  [Presentation]() [Code]()
+[[Report]()]  [[Presentation]()] [[Code]()]
 
 ##### Clean Power Generation using Energy Recovery from Roads
 [[Report]()] [[Presentation]()]
 
 ##### Simulation of Contact using a Nonlinear Damping Model for Robotic systems
-[Report](https://athulcd.github.io/assets/NLD_Report.pdf)  [Presentation]()
+[Report](https://athulcd.github.io/assets/NLD_Report.pdf)  [[Presentation]()]
 Analysed various nonlinear contact model for use in computer simulation through literature survey. Chose a simple nonlinear contact model and studied it’s dynamics with the help of analytical methods as well as computer simulations and plots in MATLAB. Implemented the model in Simulink and used it to model the foot-ground interaction during locomotion cycle of a walking machine [...Read More](https://athulcd.github.io/blog/simulation-of-contact-nld)
 
 ##### Autonomous Bot
 Part of four membered team which designed and made a 4 wheeled bot with acrylic chassis. Tried to implement Simultaneous Localization and Mapping (SLAM) using an on-board Raspberry Pi with proportional–integral–derivative(PID) controller and Extended Kalman filter. Used ultrasound sensor, wheel encoder and accelerometer for odometry and distance estimation [...Read More](https://athulcd.github.io/blog/Autonomous-Bot)
 
 ##### Microchannel Fabrication using Electro-Chemical Discharge Machining (ECDM)
+[[Presentation]()]
 Ideated and performed experiments to study the effect of tool-electrode gap and feed rate on the quality of
 micro-channels created using ECDM on a glass substrate. Plotted the results for Alternating current against the experimental plots using Direct current and tried to
 account for the anomalies
