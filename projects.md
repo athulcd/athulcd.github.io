@@ -12,15 +12,19 @@ I developed a user friendly interface to a MATLAB program for Image Processing a
 
 ##### A Quantitative Analysis of Path Planning Algorithms using Parallel Computing  
 [[Report]()]  [[Presentation]()] [[Code]()]  
+In this project we attempted to parallelize 
 
 ##### Simulation of Nonlinear Dynamic Systems   
 [[Report]()]  [[Presentation]()] [[Code]()]  
 
+
 ##### Market Forecasting using Machine learning based approach  
 [[Report]()]  [[Presentation]()] [[Code]()]  
 
+
 ##### Clean Power Generation using Energy Recovery from Roads  
 [[Report]()] [[Presentation]()]  
+
 
 ##### Simulation of Contact using a Nonlinear Damping Model for Robotic systems
 [[Report](https://athulcd.github.io/assets/NLD_Report.pdf)]  [[Presentation]()]  
