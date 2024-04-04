@@ -1,8 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: /CV/
+permalink: /assets/cv.pdf
 ---
-CV
-
-[to be updated]
