@@ -23,7 +23,7 @@ email: achakkit@purdue.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of Athul C D. I write about my research and other things that I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://athulcd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AthulCD
 github_username:  athulcd
 
@@ -31,6 +31,9 @@ github_username:  athulcd
 theme: minima
 plugins:
   - jekyll-feed
+
+# Add nav bar links
+include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
