@@ -5,9 +5,9 @@
 layout: page
 ---
 
-I am Athul C D.
+I am Athul C D. Welcome to my website!
 
-[to be updated]
+
 
 <!-- ## Updates:
 
