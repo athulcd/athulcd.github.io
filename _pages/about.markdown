@@ -8,4 +8,4 @@ I am Athul Chakkithara Dharmarajan. I am currently a graduate student at Purdue 
 
 My current research interests are broadly in the domain of engineering design.
 
-[to be updated]
+Other interests: running, swimming, economics

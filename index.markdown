@@ -7,7 +7,7 @@ layout: page
 
 I am Athul C D. Welcome to my website!
 
-[Last updated - Sep 5, 2024]
+[Last updated - Dec 30, 2024]
 
 <!-- ## Updates:
 
