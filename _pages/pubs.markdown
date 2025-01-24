@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
+
+
+[Google Scholar](https://scholar.google.com/citations?user=LssYeuUAAAAJ&hl=en)
+
 # Journal Publications
 - Dadhich, Ruchika, Abhishek Singh, Anjana P. Menon, Manjari Mishra, C. D. Athul, and Shobhna Kapoor. “Biophysical Characterization of Mycobacterial Model Membranes and Their Interaction with Rifabutin: Towards Lipid-Guided Drug Screening in Tuberculosis.” Biochimica et Biophysica Acta (BBA)-Biomembranes 1861, no. 6 (2019): 1213–27.
 
