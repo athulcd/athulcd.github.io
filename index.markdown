@@ -4,8 +4,7 @@
 
 layout: page
 ---
-
-I am Athul C D. Welcome to my website!
+I am Athul Chakkithara Dharmarajan. I am currently a graduate student at Purdue University in the department of Mechanical Engineering. I am advised by Prof. Jitesh Panchal at the Design and Engineering Lab Purdue (DELP).
 
 [Last updated - Dec 30, 2024]
 
