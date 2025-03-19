@@ -8,9 +8,6 @@ I am Athul Chakkithara Dharmarajan. I am currently a graduate student at Purdue 
 
 ![Professional pic](/assets/images/headshot.jpeg)
 
-<!-- {% picture assets/images/headshot.jpeg --alt "Description" --width 300 --height 200 %} -->
-
-
 [Last updated - Dec 30, 2024]
 
 <!-- ## Updates:
