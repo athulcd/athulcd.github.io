@@ -6,9 +6,9 @@ layout: page
 ---
 I am Athul Chakkithara Dharmarajan. I am currently a graduate student at Purdue University in the department of Mechanical Engineering. I am advised by Prof. Jitesh Panchal at the Design and Engineering Lab Purdue (DELP).
 
-<!-- ![Professional headshot](/assets/images/headshot.jpeg) -->
+![Professional headshot](/assets/images/headshot.jpeg)
 
-{% picture assets/images/headshot.jpeg --alt "Description" --width 300 --height 200 %}
+<!-- {% picture assets/images/headshot.jpeg --alt "Description" --width 300 --height 200 %} -->
 
 
 [Last updated - Dec 30, 2024]
