@@ -228,6 +228,16 @@ collections:
     permalink: /:collection/:path/
 
 
+  # Navigation links for the top bar are typically set in the _data/navigation.yml file.
+  # Some themes may also use a 'nav' or 'navigation' key here, for example:
+  # nav:
+  #   - title: "Home"
+  #     url: "/"
+  #   - title: "About"
+  #     url: "/about/"
+  #   - title: "Publications"
+  #     url: "/publications/"
+
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -266,23 +276,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
