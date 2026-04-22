@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+## Research Interests
+
+Summarize your main research areas here.
+
+- Area one
+- Area two
+- Area three
+
+## Current Projects
+
+### Project Title
+
+Add a short description of the problem, your approach, and its significance.
+
+### Another Project
+
+Use this section for active collaborations, dissertation work, or lab projects.
+
+## Methods
+
+List the methods, tools, or datasets you work with most often.

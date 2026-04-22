@@ -1,0 +1,23 @@
+---
+title: "Publications"
+---
+
+## Selected Publications
+
+Replace these placeholders with your own publications.
+
+### Journal Articles
+
+1. Author Name, Author Name, and Your Name. "Paper Title." *Journal Name*, Year.
+
+### Conference Papers
+
+1. Your Name and Coauthor Name. "Conference Paper Title." *Conference Name*, Year.
+
+### Preprints
+
+1. Your Name. "Preprint Title." *arXiv* or repository, Year.
+
+## Notes
+
+You can also organize this page by year or add links to DOI, PDF, code, or supplementary material.

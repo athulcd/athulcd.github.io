@@ -1,0 +1,21 @@
+---
+title: "Contact"
+---
+
+## Contact
+
+- Email: `yourname@university.edu`
+- Department: Your Department
+- Institution: Your University
+- Location: City, State or Country
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
+- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/)
+
+## Office Hours
+
+Add office hours or a note about how you prefer to be contacted.

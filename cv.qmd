@@ -1,0 +1,28 @@
+---
+title: "CV"
+---
+
+## Curriculum Vitae
+
+You can summarize your background here and optionally add a PDF link once you have one in the repository.
+
+### Education
+
+- PhD in Your Field, University Name, Expected Year
+- Previous degree, Institution, Year
+
+### Academic Positions
+
+- Role, Department or Lab, Dates
+
+### Awards and Honors
+
+- Award name, Year
+
+### Teaching
+
+- Course or teaching role, Term
+
+### Service
+
+- Reviewer, committee, or outreach activity

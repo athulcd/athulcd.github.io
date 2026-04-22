@@ -1,0 +1,20 @@
+---
+title: "PhD Student"
+---
+
+## Welcome
+
+I am a PhD student, and this website is built with [Quarto](https://quarto.org/).
+
+This site is a simple academic homepage where you can share your work, background, and ways to get in touch.
+
+## Overview
+
+- Research: current topics, methods, and collaborations
+- Publications: papers, preprints, and conference work
+- CV: education, awards, teaching, and service
+- Contact: email and professional links
+
+## About Me
+
+Write a short introduction here. A good starting point is your department, university, research area, and one or two sentences about your current work.
