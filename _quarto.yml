@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "PhD Student"
+  title: "Athul Chakkithara Dharmarajan"
   navbar:
     left:
       - href: index.qmd
