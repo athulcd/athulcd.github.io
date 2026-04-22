@@ -17,7 +17,7 @@ website:
       - href: contact.qmd
         text: Contact
   page-footer:
-    center: "Built with Quarto"
+    center: "cogito, ergo sum"
 
 format:
   html:

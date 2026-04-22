@@ -3,8 +3,9 @@ title: "Research"
 ---
 
 ## Research Interests
+- Engineering Design
 
-Summarize your main research areas here.
+<!-- Summarize your main research areas here.
 
 - Area one
 - Area two
@@ -22,4 +23,4 @@ Use this section for active collaborations, dissertation work, or lab projects.
 
 ## Methods
 
-List the methods, tools, or datasets you work with most often.
+List the methods, tools, or datasets you work with most often. -->

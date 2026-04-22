@@ -2,7 +2,8 @@
 title: "Publications"
 ---
 
-## Selected Publications
+Find the full list of publications in my [Google Scholar profile](https://scholar.google.com/citations?user=LssYeuUAAAAJ&hl=en).
+<!-- ## Selected Publications
 
 Replace these placeholders with your own publications.
 
@@ -20,4 +21,4 @@ Replace these placeholders with your own publications.
 
 ## Notes
 
-You can also organize this page by year or add links to DOI, PDF, code, or supplementary material.
+You can also organize this page by year or add links to DOI, PDF, code, or supplementary material. -->

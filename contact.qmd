@@ -4,18 +4,17 @@ title: "Contact"
 
 ## Contact
 
-- Email: `yourname@university.edu`
-- Department: Your Department
-- Institution: Your University
-- Location: City, State or Country
+- Email: `achakkit@purdue.edu`
+- Office: ME 3179, School of Mechanical Engineering, Purdue University
+- Location: West Lafayette, IN, USA
 
 ## Links
 
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/)
-- [GitHub](https://github.com/)
-- [LinkedIn](https://www.linkedin.com/)
+- [Google Scholar](https://scholar.google.com/citations?user=LssYeuUAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-5264-5247)
+- [GitHub](https://github.com/athulcd)
+- [LinkedIn](https://www.linkedin.com/in/athulcd/)
 
-## Office Hours
+<!-- ## Office Hours
 
-Add office hours or a note about how you prefer to be contacted.
+Add office hours or a note about how you prefer to be contacted. -->

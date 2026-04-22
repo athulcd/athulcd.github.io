@@ -4,14 +4,13 @@ title: "CV"
 
 ## Curriculum Vitae
 
-You can summarize your background here and optionally add a PDF link once you have one in the repository.
-
 ### Education
 
-- PhD in Your Field, University Name, Expected Year
-- Previous degree, Institution, Year
+- PhD, Mechanical Engineering, Purdue University, 2027 (Expected)
+- Master of Technology, IIT Bombay, 2022
+- Bachelor of Technology, IIT Bombay, 2022
 
-### Academic Positions
+<!-- ### Academic Positions
 
 - Role, Department or Lab, Dates
 
@@ -25,4 +24,4 @@ You can summarize your background here and optionally add a PDF link once you ha
 
 ### Service
 
-- Reviewer, committee, or outreach activity
+- Reviewer, committee, or outreach activity -->
