@@ -1,9 +1,11 @@
 ---
-title: "Research"
+title: "Research Interests"
 ---
 
-## Research Interests
+<!-- ## Research Interests -->
 - Engineering Design
+- AI for Design and Manufacturing
+- Computational Design
 
 <!-- Summarize your main research areas here.
 
