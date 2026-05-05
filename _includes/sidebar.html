@@ -1,11 +1,22 @@
 <aside class="profile-sidebar" aria-label="Profile sidebar">
-  <img
-    class="profile-photo"
-    src="assets/profile.jpg"
-    alt="Profile photo of Athul Chakkithara Dharmarajan"
-    width="178"
-    height="178"
-  >
+  <picture>
+    <source
+      type="image/webp"
+      srcset="
+        assets/profile-mobile.webp 128w,
+        assets/profile-desktop.webp 256w,
+        assets/profile-retina.webp 512w
+      "
+      sizes="(max-width: 800px) 64px, 178px"
+    >
+    <img
+      class="profile-photo"
+      src="assets/profile.jpg"
+      alt="Profile photo of Athul Chakkithara Dharmarajan"
+      width="178"
+      height="178"
+    >
+  </picture>
 
   <div class="profile-name">Athul Chakkithara Dharmarajan</div>
 
