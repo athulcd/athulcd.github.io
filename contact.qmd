@@ -1,6 +1,12 @@
 ---
 title: "Contact"
+page-layout: full
 ---
+
+::: {.academic-layout}
+{{< include _includes/sidebar.html >}}
+
+::: {.main-content}
 
 ## Contact
 
@@ -18,3 +24,6 @@ title: "Contact"
 <!-- ## Office Hours
 
 Add office hours or a note about how you prefer to be contacted. -->
+
+:::
+:::

@@ -1,6 +1,6 @@
-# Quarto Academic Website
+# Academic Website Using Quarto
 
-This repository contains a simple Quarto website configured for deployment to GitHub Pages.
+This repository contains my personal website deployed to GitHub Pages [athulcd.github.io](athulcd.github.io).
 
 ## Local development
 

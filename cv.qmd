@@ -1,6 +1,12 @@
 ---
 title: "CV"
+page-layout: full
 ---
+
+::: {.academic-layout}
+{{< include _includes/sidebar.html >}}
+
+::: {.main-content}
 
 ## Curriculum Vitae
 
@@ -25,3 +31,6 @@ title: "CV"
 ### Service
 
 - Reviewer, committee, or outreach activity -->
+
+:::
+:::

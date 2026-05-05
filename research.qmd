@@ -1,6 +1,12 @@
 ---
 title: "Research Interests"
+page-layout: full
 ---
+
+::: {.academic-layout}
+{{< include _includes/sidebar.html >}}
+
+::: {.main-content}
 
 <!-- ## Research Interests -->
 - Engineering Design
@@ -26,3 +32,6 @@ Use this section for active collaborations, dissertation work, or lab projects.
 ## Methods
 
 List the methods, tools, or datasets you work with most often. -->
+
+:::
+:::

@@ -1,6 +1,12 @@
 ---
 title: "Athul Chakkithara Dharmarajan"
+page-layout: full
 ---
+
+::: {.academic-layout}
+{{< include _includes/sidebar.html >}}
+
+::: {.main-content}
 
 ## Welcome
 
@@ -22,3 +28,6 @@ This site is a simple academic homepage where you can share your work, backgroun
 ## About Me
 
 Write a short introduction here. A good starting point is your department, university, research area, and one or two sentences about your current work. -->
+
+:::
+:::
