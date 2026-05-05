@@ -8,6 +8,8 @@ page-layout: full
 
 ::: {.main-content}
 
+## Publications
+
 Find the full list of publications in my [Google Scholar profile](https://scholar.google.com/citations?user=LssYeuUAAAAJ&hl=en).
 <!-- ## Selected Publications
 

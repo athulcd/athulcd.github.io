@@ -8,7 +8,8 @@ page-layout: full
 
 ::: {.main-content}
 
-<!-- ## Research Interests -->
+## Research Interests
+
 - Engineering Design
 - AI for Design and Manufacturing
 - Computational Design
