@@ -23,4 +23,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header: _includes/custom-styles.html
     toc: true
