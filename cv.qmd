@@ -1,5 +1,6 @@
 ---
 title: "CV"
+description: "Curriculum vitae of Athul Chakkithara Dharmarajan, PhD student in Mechanical Engineering at Purdue University."
 page-layout: full
 ---
 
@@ -8,29 +9,13 @@ page-layout: full
 
 ::: {.main-content}
 
-## Curriculum Vitae
+# Curriculum Vitae
 
-### Education
+## Education
 
 - PhD, Mechanical Engineering, Purdue University, 2027 (Expected)
 - Master of Technology, IIT Bombay, 2022
 - Bachelor of Technology, IIT Bombay, 2022
-
-<!-- ### Academic Positions
-
-- Role, Department or Lab, Dates
-
-### Awards and Honors
-
-- Award name, Year
-
-### Teaching
-
-- Course or teaching role, Term
-
-### Service
-
-- Reviewer, committee, or outreach activity -->
 
 :::
 :::

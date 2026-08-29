@@ -1,3 +1,5 @@
+/* Base */
+
 body {
   line-height: 1.6;
 }
@@ -6,39 +8,57 @@ body {
   font-weight: 700;
 }
 
+/* The sidebar carries the page identity, so Quarto's own title block
+   is suppressed. Each page instead opens with a top-level heading. */
 body:has(.academic-layout) #title-block-header {
   display: none;
 }
 
-.academic-layout {
-  display: grid;
-  grid-template-columns: 220px minmax(0, 820px);
-  gap: clamp(6rem, 9vw, 12rem);
-  justify-content: start;
-  max-width: none;
-  margin: 3rem 0;
-  padding: 0 clamp(1.5rem, 2vw, 2.5rem);
-  transform: translateX(4rem);
-  width: calc(100% - 4rem);
-}
+/* Layout
+   Quarto adds `.page-columns` to the wrapper and imposes its own grid,
+   so the two-column layout is declared once for both selectors. */
 
+.academic-layout,
 .academic-layout.page-columns {
   display: grid !important;
-  grid-template-columns: 220px minmax(0, 820px) !important;
-  column-gap: clamp(6rem, 9vw, 12rem) !important;
+  grid-template-columns: 220px minmax(0, 720px) !important;
+  column-gap: clamp(2.5rem, 6vw, 5rem) !important;
+  justify-content: center;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  width: fit-content;
+  max-width: 100%;
 }
 
-.profile-sidebar {
+.profile-sidebar,
+.academic-layout.page-columns > .profile-sidebar {
   align-self: start;
   grid-column: 1 !important;
+  grid-row: 1;
   position: sticky;
   top: 2rem;
 }
 
-.academic-layout.page-columns > .profile-sidebar {
-  grid-column: 1 !important;
+.main-content,
+.academic-layout.page-columns > .main-content {
+  grid-column: 2 !important;
   grid-row: 1;
+  min-width: 0;
 }
+
+.main-content > h1:first-child {
+  margin-top: 0;
+  margin-bottom: 1.75rem;
+  border: 0;
+  font-size: clamp(1.85rem, 3.5vw, 2.4rem);
+  line-height: 1.15;
+}
+
+.main-content > h2:first-child {
+  margin-top: 0;
+}
+
+/* Sidebar */
 
 .profile-sidebar p:has(.profile-photo) {
   margin: 0;
@@ -47,6 +67,7 @@ body:has(.academic-layout) #title-block-header {
 .profile-photo {
   display: block;
   width: min(100%, 178px);
+  max-width: 178px;
   aspect-ratio: 1;
   border-radius: 50%;
   object-fit: cover;
@@ -90,6 +111,12 @@ body:has(.academic-layout) #title-block-header {
   text-decoration: none;
 }
 
+.profile-links a:hover,
+.profile-links a:focus {
+  color: #245469;
+  text-decoration: underline;
+}
+
 .link-icon {
   display: inline-grid;
   place-items: center;
@@ -101,67 +128,32 @@ body:has(.academic-layout) #title-block-header {
   line-height: 1;
 }
 
-.profile-links a:hover,
-.profile-links a:focus {
-  color: #245469;
-  text-decoration: underline;
-}
-
-.main-content {
-  grid-column: 2 !important;
-  min-width: 0;
-}
-
-.academic-layout.page-columns > .main-content {
-  grid-column: 2 !important;
-  grid-row: 1;
-}
-
-.main-content > h2:first-child {
-  margin-top: 0;
-}
-
-.main-content > h1:first-child {
-  margin-top: 0;
-  margin-bottom: 3.5rem;
-  border: 0;
-  font-size: clamp(2rem, 4vw, 2.65rem);
-  line-height: 1.12;
-}
+/* Small screens: sidebar collapses to a compact header above the content. */
 
 @media (max-width: 800px) {
-  .academic-layout {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
+  .academic-layout,
+  .academic-layout.page-columns {
+    grid-template-columns: 1fr !important;
+    column-gap: 0 !important;
+    row-gap: 1.5rem;
     margin: 1.5rem auto;
     padding: 0 1.25rem;
-    transform: none;
     width: auto;
   }
 
-  .academic-layout.page-columns {
-    grid-template-columns: 1fr !important;
-  }
-
-  .profile-sidebar {
+  .profile-sidebar,
+  .academic-layout.page-columns > .profile-sidebar {
     display: grid;
     grid-template-columns: 64px minmax(0, 1fr);
     column-gap: 0.9rem;
     align-items: center;
     grid-column: 1 !important;
+    grid-row: 1;
     position: static;
     text-align: left;
   }
 
-  .academic-layout.page-columns > .profile-sidebar {
-    grid-column: 1 !important;
-    grid-row: 1;
-  }
-
-  .main-content {
-    grid-column: 1 !important;
-  }
-
+  .main-content,
   .academic-layout.page-columns > .main-content {
     grid-column: 1 !important;
     grid-row: 2;
@@ -195,17 +187,5 @@ body:has(.academic-layout) #title-block-header {
 
   .profile-links {
     display: none;
-  }
-
-  .profile-links a {
-    gap: 0.3rem;
-    font-size: 0.86rem;
-    line-height: 1.15;
-  }
-
-  .link-icon {
-    width: 0.95rem;
-    min-width: 0.95rem;
-    font-size: 0.7rem;
   }
 }

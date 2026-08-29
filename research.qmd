@@ -1,5 +1,6 @@
 ---
 title: "Research Interests"
+description: "Research interests in engineering design, AI for design and manufacturing, and computational design."
 page-layout: full
 ---
 
@@ -8,31 +9,11 @@ page-layout: full
 
 ::: {.main-content}
 
-## Research Interests
+# Research Interests
 
 - Engineering Design
 - AI for Design and Manufacturing
 - Computational Design
-
-<!-- Summarize your main research areas here.
-
-- Area one
-- Area two
-- Area three
-
-## Current Projects
-
-### Project Title
-
-Add a short description of the problem, your approach, and its significance.
-
-### Another Project
-
-Use this section for active collaborations, dissertation work, or lab projects.
-
-## Methods
-
-List the methods, tools, or datasets you work with most often. -->
 
 :::
 :::
