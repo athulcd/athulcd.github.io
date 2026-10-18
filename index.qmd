@@ -9,7 +9,7 @@ page-layout: full
 
 ::: {.main-content}
 
-# Athul Chakkithara Dharmarajan
+# Hello Everyone!
 
 I am currently a graduate student at Purdue University's Design Engineering Lab, where my research focuses on computational modeling of design processes and analyzing human behavior in design contexts. Recently, my interests have expanded to generative AI-based design methodologies, particularly the potential to generate feasible designs that effectively satisfy specified constraints.
 
