@@ -21,11 +21,13 @@ body:has(.academic-layout) #title-block-header {
 .academic-layout,
 .academic-layout.page-columns {
   display: grid !important;
-  grid-template-columns: 240px minmax(0, 760px) !important;
+  grid-template-columns: 220px minmax(0, 760px) !important;
   column-gap: clamp(2rem, 4vw, 3.5rem) !important;
   justify-content: start;
-  margin: 3rem auto;
-  padding: 0 2rem;
+  margin: 3rem 0;
+  /* Left padding matches the navbar's inset so the sidebar sits
+     directly under the site name. */
+  padding: 0 2rem 0 30px;
   width: 100%;
   max-width: 1200px;
 }
@@ -37,7 +39,7 @@ body:has(.academic-layout) #title-block-header {
   grid-row: 1;
   position: sticky;
   top: 2rem;
-  text-align: center;
+  text-align: left;
 }
 
 .main-content,
@@ -72,7 +74,7 @@ body:has(.academic-layout) #title-block-header {
   aspect-ratio: 1;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 auto;
+  margin: 0;
   border: 1px solid #d9dee4;
   padding: 5px;
   background: #fff;
@@ -98,7 +100,7 @@ body:has(.academic-layout) #title-block-header {
 .profile-links {
   display: grid;
   gap: 0.12rem;
-  justify-items: center;
+  justify-items: start;
   list-style: none;
   margin: 1.25rem 0 0;
   padding: 0;
