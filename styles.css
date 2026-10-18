@@ -22,9 +22,9 @@ body:has(.academic-layout) #title-block-header {
 .academic-layout.page-columns {
   display: grid !important;
   grid-template-columns: 220px minmax(0, 760px) !important;
-  column-gap: clamp(2rem, 4vw, 3.5rem) !important;
+  column-gap: 4rem !important;
   justify-content: start;
-  margin: 3rem 0;
+  margin: 0.5rem 0 3rem;
   /* Left padding matches the navbar's inset so the sidebar sits
      directly under the site name. */
   padding: 0 2rem 0 30px;
@@ -53,7 +53,8 @@ body:has(.academic-layout) #title-block-header {
   margin-top: 0;
   margin-bottom: 1.75rem;
   border: 0;
-  font-size: clamp(1.85rem, 3.5vw, 2.4rem);
+  font-size: 1.65rem;
+  font-weight: 700;
   line-height: 1.15;
 }
 
@@ -84,22 +85,22 @@ body:has(.academic-layout) #title-block-header {
   margin: 1.05rem 0 0.45rem;
   padding: 0;
   border: 0;
-  color: #6c7886;
-  font-size: 1.08rem;
+  color: #343a40;
+  font-size: 1.05rem;
   font-weight: 700;
   line-height: 1.18;
 }
 
 .profile-affiliation {
   margin: 0;
-  color: #4f5863;
-  font-size: 0.93rem;
+  color: #495057;
+  font-size: 0.85rem;
   line-height: 1.45;
 }
 
 .profile-links {
   display: grid;
-  gap: 0.12rem;
+  gap: 0.4rem;
   justify-items: start;
   list-style: none;
   margin: 1.25rem 0 0;
@@ -109,27 +110,26 @@ body:has(.academic-layout) #title-block-header {
 .profile-links a {
   display: inline-flex;
   align-items: center;
-  gap: 0.45rem;
-  color: #3f6f85;
-  font-size: 0.93rem;
+  gap: 0.55rem;
+  color: #495057;
+  font-size: 0.85rem;
   line-height: 1.25;
   text-decoration: none;
 }
 
 .profile-links a:hover,
 .profile-links a:focus {
-  color: #245469;
+  color: #2780e3;
   text-decoration: underline;
 }
 
 .link-icon {
   display: inline-grid;
   place-items: center;
-  width: 1.05rem;
-  min-width: 1.05rem;
-  color: #4f5863;
-  font-size: 0.78rem;
-  font-weight: 700;
+  width: 1rem;
+  min-width: 1rem;
+  color: #6c757d;
+  font-size: 0.95rem;
   line-height: 1;
 }
 
